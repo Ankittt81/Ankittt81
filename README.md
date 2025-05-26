@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Ankit
 
-<!--
-**Ankittt81/Ankittt81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer from India.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Guess-Game](https://github.com/Ankittt81/Guess-Game)
+- 🌱 I’m currently learning Java and Python
+- 💬 Ask me about anything related to programming
+- 📫 How to reach me: [Your Email or LinkedIn]
+- ⚡ Fun fact: I love solving puzzles and playing chess
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Languages**: Java, Python
+- **Tools**: Git, VS Code
+
+## 📈 GitHub Stats
+
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankittt81&show_icons=true&theme=radical)
+
+## 🔗 Connect with me
+
+[https://www.linkedin.com/in/ankit-kumar-4a0281316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
