@@ -1,12 +1,6 @@
-# 👋 Hi, I'm Ankit kushwaha
+# 👋 Hi, I'm Ankit kumar
 
 I'm a passionate developer from India.
-
-- 🔭 I’m currently working on [Movie-Book-App](https://github.com/Ankittt81/Movie-Book-App)
-- 🌱 I’m currently learning Java and Python
-- 💬 Ask me about anything related to programming
-- 📫 How to reach me: [ankitkumarakki85@gmail.com]
-- ⚡ Fun fact: I love solving puzzles and playing chess
 
 ## 🛠️ Skills
 
